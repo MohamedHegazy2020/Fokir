@@ -83,7 +83,7 @@ console.log(spanWidth);
 // how can i make typing different words animation?
 var options = {
     selector: '#homeP', // target element selector
-    words: ['Develeper','Designer'], // words/sentences that will be auto typed
+    words: ['Developer ','Designer'], // words/sentences that will be auto typed
     charSpeed: 50, // letter typing animation speed
     delay: 1500, // word/sentence typing animation delay
     loop: true, // if loop is activated, autoTyper will start over
